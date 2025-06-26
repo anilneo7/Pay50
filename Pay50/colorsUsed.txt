@@ -1,0 +1,5 @@
+//orange color #ff5a19
+//voilet #380438
+//grey #D3D3D3
+
+// TODO: Add infinite Scroll at Home.js
